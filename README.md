@@ -3,7 +3,7 @@
 
 # Introduction
 
-**Snake and Ball Game** 
+**Snake and Ball Game** 🖥️
 
 Snake and Ball Game is a console based game where the snake grows longer when it eats the "#" character (representing food). The player can control the snake's direction using the keys 'W', 'A', 'S', and 'D'. The game ends if the snake runs into itself or, the snake hit the background and if the player decides to exit by pressing 'X’.
 
@@ -26,6 +26,13 @@ Snake and Ball Game is a console based game where the snake grows longer when it
 - **Rendering:** Display the game area, snake, food, and score on the screen. 
 - **User Input:** Detect and handle user input to change the snake's direction. 
 - **Game Logic:** Manage the movement of the snake, growth when it eats the food, collision detection, and updating the game state.
+
+#### Future Scope: 📝
+
+-**Enhancing Graphics and User Interface:**  Utilize advanced libraries like SFML, SDL, and CMake.
+-**Adding Features and Functionalities:**  Implement different levels, obstacles, power-ups, sound effects, and animations.
+-**Optimizing Performance and Memory Usage:**  Use smart pointers, vectors, and algorithms from the STL.
+-**Applying Principles of Reactive Programming:**  Integrate streams, observables, and operators using the ReactivePlusPlus library.
 
 
 
