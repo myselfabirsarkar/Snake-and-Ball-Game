@@ -35,7 +35,7 @@ Snake and Ball Game is a console based game where the snake grows longer when it
 - **Applying Principles of Reactive Programming:**  Integrate streams, observables, and operators using the ReactivePlusPlus library.
 
 <p align="center">
-  Thank You!
+  # Thank You!
 </p>
 
 
