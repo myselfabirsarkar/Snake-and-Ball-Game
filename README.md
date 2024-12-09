@@ -1,9 +1,9 @@
 # Snake-and-Ball-Game
-🐍**Snake and Ball**⚾ Game using C++
+🐍**Snake and Ball**🏐 Game using C++
 
 # Introduction
 
-**Snake and Ball Game**
+**Snake and Ball Game** 
 
 Snake and Ball Game is a console based game where the snake grows longer when it eats the "#" character (representing food). The player can control the snake's direction using the keys 'W', 'A', 'S', and 'D'. The game ends if the snake runs into itself or, the snake hit the background and if the player decides to exit by pressing 'X’.
 
@@ -15,7 +15,7 @@ Snake and Ball Game is a console based game where the snake grows longer when it
 - The length of the snake will be increased after eating the fruits. 
 - Use w, a, s, d to move the snake.
 
-#### Game Elements:
+#### Game Elements: 🎮
 
 - **Snake:** A series of connected segments that grows longer when it consumes the "ball" or food. 
 - **Ball/Food:** A target object that the snake eats to grow in length and score points. 
