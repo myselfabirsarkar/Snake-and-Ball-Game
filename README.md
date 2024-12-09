@@ -1,2 +1,2 @@
 # Snake-and-Ball-Game
-**Snake and Ball** Game using C++
+🐍**Snake and Ball**⚾ Game using C++
