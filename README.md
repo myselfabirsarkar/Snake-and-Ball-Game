@@ -29,10 +29,10 @@ Snake and Ball Game is a console based game where the snake grows longer when it
 
 #### Future Scope: 📝
 
--**Enhancing Graphics and User Interface:**  Utilize advanced libraries like SFML, SDL, and CMake.
--**Adding Features and Functionalities:**  Implement different levels, obstacles, power-ups, sound effects, and animations.
--**Optimizing Performance and Memory Usage:**  Use smart pointers, vectors, and algorithms from the STL.
--**Applying Principles of Reactive Programming:**  Integrate streams, observables, and operators using the ReactivePlusPlus library.
+- **Enhancing Graphics and User Interface:**  Utilize advanced libraries like SFML, SDL, and CMake.
+- **Adding Features and Functionalities:**  Implement different levels, obstacles, power-ups, sound effects, and animations.
+- **Optimizing Performance and Memory Usage:**  Use smart pointers, vectors, and algorithms from the STL.
+- **Applying Principles of Reactive Programming:**  Integrate streams, observables, and operators using the ReactivePlusPlus library.
 
 
 
