@@ -34,8 +34,8 @@ Snake and Ball Game is a console based game where the snake grows longer when it
 - **Optimizing Performance and Memory Usage:**  Use smart pointers, vectors, and algorithms from the STL.
 - **Applying Principles of Reactive Programming:**  Integrate streams, observables, and operators using the ReactivePlusPlus library.
 
-<p align="center">
-  # Thank You!
+<p align="center"  >
+  <b>Thank You!</b>
 </p>
 
 
